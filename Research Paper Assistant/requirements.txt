@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-community
-langchain-groq
-langchain-classic
-faiss-cpu
-sentence-transformers
-python-dotenv
